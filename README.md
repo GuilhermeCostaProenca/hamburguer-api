@@ -1,5 +1,8 @@
 # Hamburguer Api
 
+[![CI](https://github.com/GuilhermeCostaProenca/hamburguer-api/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/GuilhermeCostaProenca/hamburguer-api/actions/workflows/ci.yml)
+
+
 REST API for burger ordering and management built with C#.
 
 ## Highlights
@@ -33,3 +36,4 @@ Active and maintained.
 ## Author
 **Guilherme Costa Proenca**
 - GitHub: https://github.com/GuilhermeCostaProenca
+
